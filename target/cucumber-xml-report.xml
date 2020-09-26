@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="143.754531">
+<testcase classname="Homepage functionality" name="Search for individual product" time="143.754531">
+<system-out><![CDATA[Given user is on the home page to search for the product....................passed
+When user type 'nike' to search for product.................................passed
+Then user should able to see all the nike products..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
